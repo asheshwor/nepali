@@ -1,0 +1,45 @@
+    WARNING: ! (U+0021) is already defined more than once on the keyboard (on VK_1, ShiftState 'Ctl+Alt' and VK_1, ShiftState 'Shift').
+    WARNING: आ (U+0906) is already defined more than once on the keyboard (on VK_C, ShiftState 'Shift+Ctl+Alt' and VK_A, ShiftState 'Shift').
+    WARNING: ऊ (U+090a) is already defined more than once on the keyboard (on VK_F, ShiftState 'Shift' and VK_2, ShiftState 'Ctl+Alt').
+    WARNING: झ (U+091d) is already defined more than once on the keyboard (on VK_J, ShiftState 'Shift' and VK_H, ShiftState 'Ctl+Alt').
+    WARNING: ओ (U+0913) is already defined more than once on the keyboard (on VK_O, ShiftState 'Shift' and VK_4, ShiftState 'Ctl+Alt').
+    WARNING: ई (U+0908) is already defined more than once on the keyboard (on VK_O, ShiftState 'Shift+Ctl+Alt' and VK_O, ShiftState 'Ctl+Alt').
+    WARNING: फ (U+092b) is already defined more than once on the keyboard (on VK_P, ShiftState 'Shift' and VK_K, ShiftState 'Shift+Ctl+Alt').
+    WARNING: ऊ (U+090a) is already defined more than once on the keyboard (on VK_P, ShiftState 'Ctl+Alt' and VK_2, ShiftState 'Ctl+Alt').
+    WARNING: ऐ (U+0910) is already defined more than once on the keyboard (on VK_P, ShiftState 'Shift+Ctl+Alt' and VK_3, ShiftState 'Ctl+Alt').
+    WARNING: औ (U+0914) is already defined more than once on the keyboard (on VK_W, ShiftState 'Shift' and VK_Q, ShiftState 'Ctl+Alt').
+    WARNING: ॥ (U+0965) is already defined more than once on the keyboard (on VK_OEM_PERIOD, ShiftState 'Shift+Ctl+Alt' and VK_L, ShiftState 'Shift').
+    WARNING: / (U+002f) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'Ctrl' and VK_6, ShiftState 'Shift').
+    WARNING: ऽ (U+093d) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Shift' and VK_W, ShiftState 'Ctl+Alt').
+    WARNING: ई (U+0908) is already defined more than once on the keyboard (on VK_OEM_4, ShiftState 'Shift' and VK_O, ShiftState 'Ctl+Alt').
+    WARNING: ॐ (U+0950) is already defined more than once on the keyboard (on VK_OEM_5, ShiftState 'Ctrl' and VK_C, ShiftState 'Ctl+Alt').
+    WARNING: ऐ (U+0910) is already defined more than once on the keyboard (on VK_OEM_6, ShiftState 'Shift' and VK_3, ShiftState 'Ctl+Alt').
+    WARNING: \ (U+005c) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Ctrl' and VK_OEM_5, ShiftState 'Base').
+    WARNING: | (U+007c) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Ctl+Alt' and VK_OEM_5, ShiftState 'Shift').
+    WARNING: 'ः' defined on OEM_102 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: Caps Lock is set between 'ा' and 'आ' (VK_A, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ब' and 'भ' (VK_B, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'च' and 'छ' (VK_C, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'द' and 'ध' (VK_D, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'े' and 'ै' (VK_E, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'उ' and 'ऊ' (VK_F, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ग' and 'घ' (VK_G, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ह' and 'अ' (VK_H, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ि' and 'ी' (VK_I, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ज' and 'झ' (VK_J, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'क' and 'ख' (VK_K, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ल' and '॥' (VK_L, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'म' and 'ं' (VK_M, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'न' and 'ण' (VK_N, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ो' and 'ओ' (VK_O, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'प' and 'फ' (VK_P, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ट' and 'ठ' (VK_Q, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'र' and 'ृ' (VK_R, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'स' and 'श' (VK_S, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'त' and 'थ' (VK_T, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ु' and 'ू' (VK_U, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'व' and 'ँ' (VK_V, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ौ' and 'औ' (VK_W, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ड' and 'ढ' (VK_X, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'य' and 'ञ' (VK_Y, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ष' and 'ऋ' (VK_Z, ShiftStates 'Base' and 'Shift').
