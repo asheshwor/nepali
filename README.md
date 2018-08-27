@@ -8,7 +8,7 @@ I was unable to install Nepali Unicode Romanised on a Windows 10 from Microsoft 
 
 ![Layout with AltGr](image/NP_RomanAltGr.jpg)
 
-![Layout with ShiftAltGr](image/NP_RomanShiftAltGr.jpg)
+![Layout with ShiftAltGr](image/NP_RomanShftAltGr.jpg)
 
 ## License
 
